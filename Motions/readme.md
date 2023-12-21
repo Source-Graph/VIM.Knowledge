@@ -1,0 +1,1 @@
+- [Mastering VIM Motions in VSCode (Mouseless development)](https://youtu.be/GST8we5uABo)
